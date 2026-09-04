@@ -4,7 +4,7 @@ An interactive Tableau dashboard analyzing year-to-date online retail sales perf
 ---
 
 ## 📊 Dashboard Preview
-![E-commerce Sales Dashboard Screenshot]
+E-commerce Sales Dashboard
 <img width="1920" height="1080" alt="Screenshot (448)" src="https://github.com/user-attachments/assets/7dd6bae2-b086-4272-a0a9-c897ea8eb506" />
 
 ---
